@@ -1,5 +1,6 @@
 package com.microservice_bank.microservice_bank.exception;
 
+
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
@@ -22,3 +23,4 @@ public class UserNotFaundAdvice {
         return errorMap;
     }
 }
+

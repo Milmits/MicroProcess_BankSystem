@@ -9,5 +9,4 @@ class microservice_bankApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }

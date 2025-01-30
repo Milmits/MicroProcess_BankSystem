@@ -18,3 +18,5 @@ public class ExchangeRateController {
         return exchangeRateService.getExchangeRate(currencyPair);
     }
 }
+
+

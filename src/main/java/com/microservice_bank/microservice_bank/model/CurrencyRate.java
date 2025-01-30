@@ -48,3 +48,4 @@ public class CurrencyRate {
         this.rate = rate;
     }
 }
+
