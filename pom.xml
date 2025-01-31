@@ -56,7 +56,7 @@
 		<dependency>
 			<groupId>org.liquibase</groupId>
 			<artifactId>liquibase-core</artifactId>
-			<version>4.10.0</version> <!-- Ве)рсия может отличаться -->
+			<version>4.10.0</version> <!-- Версия может отличаться -->
 		</dependency>
 		<dependency>
 			<groupId>org.springdoc</groupId>
